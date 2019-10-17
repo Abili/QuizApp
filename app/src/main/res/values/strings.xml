@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_title">BasketBall Quiz</string>
+    <string name="Instructions">Answer the Questions below</string>
+    <string name="question_1">1. Points in basketball can be made by the following ways</string>
+    <string name="question_2">2. When a player makes more that 2 steps, this is called?</string>
+    <string name="question_3">3. When a player bounces the ball with his pams under the ball this is called?</string>
+    <string name="question_4">4. Football is played on a pitch while basketball is played on?</string>
+    <string name="question_5">5. How many players are in  each team?</string>
+    <string name="question_6">6. These are Fouls in basketball, Except?</string>
+    <string name="error_message">Answer Required</string>
+    <string name="ttal_marks_wrd">Total Marks:</string>
+    <string name="overall_total_marks">/5</string>
+    <string name="kicking_the_ball_CheckBox">Kicking the ball</string>
+    <string name="lay_up_checkBox">Lay up</string>
+    <string name="free_throw_checkBox">Free Throw</string>
+    <string name="non_of_the_above_checkBox">Non of the above</string>
+    <string name="answer_hint">Answer</string>
+    <string name="a_verandah_radio_btn">A Verandah</string>
+    <string name="a_court_radio_btn">A Court</string>
+    <string name="a_bed_radio_btn">A Bed</string>
+    <string name="five_radio_btn">Five</string>
+    <string name="twelve_radio_btn">Twelve</string>
+    <string name="three_radio_btn">Three</string>
+    <string name="submit_btn">Submit</string>
+    <string-array name="editTex_answers">
+        <item> Travel</item>
+        <item> travel </item>
+        <item> Layup  </item>
+        <item> layup  </item>
+        <item> Curry  </item>
+        <item> curry</item>
+    </string-array>
+</resources>

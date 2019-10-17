@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/holo_orange_dark</item>
+        <item name="colorPrimaryDark">@android:color/holo_orange_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">@android:color/holo_orange_dark</item>
+    </style>
+
+    <style name="questions" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:layout_margin">@dimen/padding_margin</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Answers stylings-->
+    <style name="answers" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:layout_marginLeft">@dimen/padding_margin_answers</item>
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="a_bed_radio_btn">" Una cama"</string>
+    <string name="a_court_radio_btn">una corte</string>
+    <string name="a_verandah_radio_btn">" Una veranda"</string>
+    <string name="answer_hint">" responder"</string>
+    <string name="error_message">" respuesta requerida"</string>
+    <string name="five_radio_btn">" cinco"</string>
+    <string name="free_throw_checkBox">" tiro libre"</string>
+    <string name="kicking_the_ball_CheckBox">" Learn to pronounce patear la pelota"</string>
+    <string name="lay_up_checkBox">" bandeja"</string>
+    <string name="question_1">1. Los puntos en el baloncesto pueden hacerse de las siguientes maneras</string>
+    <string name="question_2">" 2. Cuando un jugador hace más de 2 pasos, esto se llama?"</string>
+    <string name="submit_btn">" Enviar"</string>
+    <string name="non_of_the_above_checkBox">" Ninguna de las anteriores"</string>
+    <string name="question_3">" 3. Cuando un jugador bota la pelota con sus palmas debajo de la pelota, ¿cómo se llama?"</string>
+    <string name="question_5">" 5. ¿Cuántos jugadores hay en cada equipo?"</string>
+    <string name="question_6">" 6. Estas son faltas en el baloncesto, ¿excepto?"</string>
+    <string name="question_4">" 4. ¿Se juega al fútbol en un campo mientras se juega al baloncesto?"</string>
+    <string name="quiz_title">" BasketBall Quiz"</string>
+    <string name="three_radio_btn">" Tres"</string>
+    <string name="ttal_marks_wrd">" Learn to pronounce Notas totales:"</string>
+    <string name="twelve_radio_btn">" Doce"</string>
+    <string name="overall_total_marks">/5</string>
+    <string name="Instructions">Para las preguntas a continuación, elija las respuestas correctas</string>
+</resources>
